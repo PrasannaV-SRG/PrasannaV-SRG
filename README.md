@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @PrasannaV-SRG
-- 👀 I’m interested in Integration
+- 👋 Hi, I’m @PrasannaV-SRG (Prasanna Vittal)
+- 👀 I’m interested in Badminton, Cricket, Hiking (and Integration)
 - 🌱 I’m currently learning Mulesoft
 - 💞️ I’m looking to collaborate on Mulesoft, SAP PO, SAP CPI
-- 📫 How to reach me prasannakp84@gmail.com
+- 📫 How to reach me prasanna.vittal@superretailgroup.com
 
 <!---
 PrasannaV-SRG/PrasannaV-SRG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
